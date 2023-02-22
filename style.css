@@ -1,0 +1,8 @@
+.lazy{
+    border-style: solid;color: blue;
+    padding:20px;
+    margin: 5%;
+}
+.jumped{
+    border-style: dotted;color: brown;
+}
